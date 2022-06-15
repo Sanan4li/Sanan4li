@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanan</h1>
+<h1 align="center">Hi, I'm Sanan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanan4li&label=Profile%20views&color=0e75b6&style=flat" alt="sanan4li" /> </p>
