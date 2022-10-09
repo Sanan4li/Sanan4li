@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/sanan4li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanan4li" height="30" width="40" /></a> <a href="https://instagram.com/sanan4li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanan4li" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8049950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8049950" height="30" width="40" /></a>
   <a href="https://latestjavascript.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="8049950" height="30" width="30" /></a>
-    <a href="https://csstailwind.com" target="blank"><img align="center" src=https://cdn-icons-png.flaticon.com/512/1187/1187595.png" alt="8049950" height="30" width="30" /></a>
+    <a href="https://csstailwind.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4003/4003245.png" alt="8049950" height="30" width="30" /></a>
 
 </p>
 
