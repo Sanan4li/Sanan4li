@@ -10,3 +10,8 @@
 <a href="https://stackoverflow.com/users/8049950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8049950" height="30" width="40" /></a>
 </p>
 
+
+# 📊GitHub Stats :
+
+![Sanan4li's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanan4li&theme=blue-green&hide_border=true) ![Sanan4li's Stats](https://github-readme-stats.vercel.app/api?username=Sanan4li&theme=blue-green&show_icons=true&hide_border=true&count_private=true) </br>
+![Sanan4li's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanan4li&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
