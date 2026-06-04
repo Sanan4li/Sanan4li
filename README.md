@@ -13,5 +13,4 @@
 
 # 📊GitHub Stats :
 
-![Sanan4li's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanan4li&theme=blue-green&hide_border=true)  </br>
-![Sanan4li's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanan4li&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sanan4li&background=070707&currStreakNum=00EB7E&fire=01EB67&sideLabels=1CEB05&dates=EBE401&sideNums=00EB86&currStreakLabel=00EB45)](https://git.io/streak-stats)
