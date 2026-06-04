@@ -13,4 +13,4 @@
 
 # 📊GitHub Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sanan4li&background=070707&currStreakNum=00EB7E&fire=01EB67&sideLabels=1CEB05&dates=EBE401&sideNums=00EB86&currStreakLabel=00EB45)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sanan4li&theme=tokyonight)
