@@ -14,7 +14,7 @@
   <a href="mailto:alisanan620@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https:facebook.com/Sanan4li/"><img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-Remote_friendly-161b22?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/🟢_Available_for_new_projects-Open-22c55e?style=flat-square" alt="Available" />
+  <img src="https://img.shields.io/badge/🟢_Open_to_work-22c55e?style=flat-square" alt="Available" />
   <img src="https://komarev.com/ghpvc/?username=sanan4li&label=Profile%20views&color=0e75b6&style=flat" alt="sanan4li" />
   
 </p>
@@ -28,8 +28,11 @@
 <table>
 <tr>
 <td width="45%" valign="top">
-<p>Software Engineer with 6+ years of experience building web, mobile, desktop, and AI-powered applications.
- I am currently working in ByteMage as Senior Software Engineer and powering web application with AI.
+<p>Software Engineer with 6+ years of experience building and maintaining Web, Desktop
+and Mobile applications. Skilled in JavaScript, TypeScript, React, Electron, and AI/LLM integration.
+  Currently working as a
+Senior Software Engineer at ByteMage. Effective team player with strong analytical skills and a proven ability to deliver
+complex, production-grade solutions.
   </p>
 </td>
 <td width="55%" valign="top" align="center">
