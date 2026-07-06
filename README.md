@@ -27,16 +27,16 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 <p>Software Engineer with 6+ years of experience building web, mobile, desktop, and AI-powered applications.
 
   </p>
-  <p>💻 <b>Frontend:</b>HTML, CSS, JavaScript, TypeScript, React </p>
-  <p>🖥️ <b>Backend:</b> Node, NestJS, PHP</p>
-  <p>🖥️ <b>Desktop:</b> Electron JS</p>
-  <p>🤖 <b>AI/ML:</b> LLMs, RAG systems, applied ML </p>
+  <p><b>Frontend:</b>HTML, CSS, JavaScript, TypeScript, React </p>
+  <p><b>Backend:</b> Node, NestJS, PHP</p>
+  <p><b>Desktop:</b> Electron JS</p>
+  <p><b>AI/ML:</b> LLMs, RAG systems, applied ML </p>
 </td>
-<td width="50%" valign="top" align="center">
+<td width="55%" valign="top" align="center">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sanan4li&theme=tokyonight)
 
