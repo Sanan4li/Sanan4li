@@ -29,12 +29,8 @@
 <tr>
 <td width="45%" valign="top">
 <p>Software Engineer with 6+ years of experience building web, mobile, desktop, and AI-powered applications.
-
+ I am currently working in ByteMage as Senior Software Engineer and powering web application with AI.
   </p>
-  <p><b>Frontend:</b>HTML, CSS, JavaScript, TypeScript, React </p>
-  <p><b>Backend:</b> Node, NestJS, PHP</p>
-  <p><b>Desktop:</b> Electron JS</p>
-  <p><b>AI/ML:</b> LLMs, RAG systems, applied ML </p>
 </td>
 <td width="55%" valign="top" align="center">
 
@@ -46,5 +42,52 @@
 
 ---
 
+### 🛠️ Tech Stack
 
+<table>
+<tr>
+<td align="center" width="33%"><b>Languages</b></td>
+<td align="center" width="33%"><b>Frontend</b></td>
+<td align="center" width="33%"><b>Backend</b></td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python&perline=5" alt="Languages" />
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,redux&perline=6" alt="Frontend" />
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php&perline=3" alt="Backend" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%"><b>Databases</b></td>
+<td align="center" width="33%"><b>Cloud & DevOps</b></td>
+<td align="center" width="33%"><b>Tools</b></td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,redis&perline=6" alt="Databases" />
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp&perline=4" alt="Cloud" />
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,notion&perline=5" alt="Tools" />
+
+</td>
+</tr>
+</table>
 
